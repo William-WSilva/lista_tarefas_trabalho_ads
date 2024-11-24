@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas
+# Gerenciador de Tarefas - ADS
 
 ![Badge de Status](https://img.shields.io/badge/status-concluído-greem)
 
