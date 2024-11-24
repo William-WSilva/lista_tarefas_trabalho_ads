@@ -4,6 +4,7 @@ import { FaTrash } from 'react-icons/fa'; // Importa o ícone de lixeira
 const Tarefa = ({ tarefa, toggleTarefa, removerTarefa }) => {
   return (
     <div className="tarefa">
+      <span className="indice">{tarefa.indice}.</span>
       <input
         type="checkbox"
         checked={tarefa.concluida}
