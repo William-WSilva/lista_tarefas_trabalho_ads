@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas
 
-![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Badge de Status](https://img.shields.io/badge/status-concluído-greem)
 
 ## Descrição do Projeto
 
